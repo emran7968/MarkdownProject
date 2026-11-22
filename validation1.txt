@@ -1,0 +1,81 @@
+commit 75cea77546b436c4ce0f6ac1c4e71b1671f75f04
+Author: Emran <emrabelk@iespoblenou.org>
+Date:   Sun Nov 22 13:18:21 2026 +0100
+
+    Update Introduction of README.md
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit cba7d93da79dd8d8efb018047d9db531ed0c1dbf
+Author: Emran <emrabelk@iespoblenou.org>
+Date:   Sun Nov 22 13:09:17 2026 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit bdfd713ba8d4c2c5f829bbb599382f5cacc8c154
+Author: Emran <emrabelk@iespoblenou.org>
+Date:   Sun Nov 22 13:04:09 2026 +0100
+
+    Enhance README with formatting
+
+ README.md | 18 ++++++++++++++++++
+ 1 file changed, 18 insertions(+)
+
+commit 2c8f731e5122ab7996af956648ec46446af75637
+Author: Emran <emrabelk@iespoblenou.org>
+Date:   Sun Nov 22 12:55:56 2026 +0100
+
+    Add feature list table to README
+
+ README.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit df38267014a698870cae16bfe49cdf1bc5160799
+Author: Emran <emrabelk@iespoblenou.org>
+Date:   Sun Nov 22 12:52:43 2026 +0100
+
+    Add project logo to README
+
+ README.md       |   1 +
+ images/logo.png | Bin 0 -> 29175 bytes
+ 2 files changed, 1 insertion(+)
+
+commit 97fe843336de9f6871d704b828caa4e45c5d634e
+Author: Emran <emrabelk@iespoblenou.org>
+Date:   Sun Nov 22 12:46:27 2026 +0100
+
+    Add sections to README
+
+ README.md | 26 +++++++++++++++++++++++---
+ 1 file changed, 23 insertions(+), 3 deletions(-)
+
+commit 1dbff5937c6bfb620a8dc6f98aebbaa9ed9aeb1d
+Author: Emran <emrabelk@iespoblenou.org>
+Date:   Fri Nov 20 22:26:56 2026 +0100
+
+    Add Table of Contents to README
+
+ README.md | 12 +++++++++++-
+ 1 file changed, 11 insertions(+), 1 deletion(-)
+
+commit cd0e9c254d5804328b1c031c237ba5f975777ed4
+Author: Emran <emrabelk@iespoblenou.org>
+Date:   Fri Nov 20 22:22:55 2026 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit eeb7d9ff7379e9a2e0246fef3c16237620380461
+Author: Emran <emrabelk@iespoblenou.org>
+Date:   Fri Nov 20 22:17:39 2026 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
