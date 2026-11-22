@@ -20,6 +20,11 @@ This project introduces the basics of Git. You can learn more in the [Git Docume
 ## Features
 
 This project includes several features related to version control and documentation.
+| Feature | Description | Status |
+|---------|-------------|--------|
+| Git | Version control system | Completed |
+| GitHub | Repository hosting platform | Completed |
+| Markdown | Documentation formatting | Completed |
 
 ## Installation
 
