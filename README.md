@@ -17,6 +17,8 @@ This project introduces the basics of Git. You can learn more in the [Git Docume
 
 This project introduces the basics of Git. You can learn more in the [Git Documentation](https://git-scm.com/doc).
 
+This project is also useful for practising basic Git commands.
+
 ## Features
 
 This project includes several features related to version control and documentation.
